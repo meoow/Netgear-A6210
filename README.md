@@ -3,8 +3,9 @@
 > Note: 
 > This fork is a quick and dirty fix for Linux kernel v4.12  
 > I only tested on Arch Linux with kernle of v4.12.8  
-> I don't have time to check at which point the APIs of cfg80211 has changed,  
-> so I only add support for 4.12, and the versions 4.1 and 4.11 wiil not work.  
+> I don't have time to go through the source code to  
+> check at which point the APIs of cfg80211 has changed,  
+> so I only add support for v4.12, and the versions 4.1 and 4.11 will not work.  
 
 
 This driver supports Ralink / Mediatek mt766u, mt7632u and mt7612u chipsets.
